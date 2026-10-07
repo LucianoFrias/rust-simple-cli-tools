@@ -1,0 +1,8 @@
+Nombre: Luciano
+Edad: 25
+
+Nombre: Homero
+Edad: 16
+
+Nombre: Karina 
+Edad: 57
